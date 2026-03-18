@@ -8,7 +8,7 @@ st.title("AI Chatbot")
 client = Groq(api_key="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")
 
 # User input
-user_input = st.text_input("Who is the no.1 actor in tollywood?")
+user_input = st.text_input("")
 
 # Generate response
 if user_input:
