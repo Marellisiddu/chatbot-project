@@ -5,7 +5,7 @@ from groq import Groq
 st.title("AI Chatbot")
 
 # Groq API
-client = Groq(api_key="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")
+client = Groq(api_key="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")
 
 # User input
 user_input = st.text_input("")
